@@ -4,7 +4,9 @@ Targeted Product:  QNAP Qsync NAS Synchronization utility
 
 ## SYNOPSIS
 
-Targets the QNAP QSync NAS Client Utility.  Provides local path to specified QNAP QSync directories (allowing them to be programmatically referenced regardless of their location)
+Targets the QNAP QSync NAS Client Utility.  
+
+Provides local path to specified QNAP QSync directories (allowing them to be programmatically referenced regardless of their location)
 	
 ## DESCRIPTION
 
