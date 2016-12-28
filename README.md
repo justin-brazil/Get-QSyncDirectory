@@ -2,7 +2,7 @@
 
 Written by Justin Brazil
 
-Targeted Product:  QNAP Qsync NAS Synchronization utility
+Targeted Product:  QNAP Qsync NAS Synchronization utility (https://www.qnap.com/en-us/utilities)
 
 ## SYNOPSIS
 
